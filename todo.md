@@ -9,3 +9,4 @@
 - [ ] Inspect the live public page, correct any issue, and confirm the fix.
 - [ ] Switch GitHub Pages from the repository root to the `/docs` bundle and confirm publication.
 - [ ] Publish the static bundle at the repository root to match the current GitHub Pages source.
+- [ ] Configure the client router for the `/Malva-Spa` GitHub Pages base path and republish.
